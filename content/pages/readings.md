@@ -6,30 +6,345 @@ uid: 6395cc53-a04e-48e7-b450-05672edddbb8
 
 PSB: Park and Sharp-Bette. _Advanced Engineering Economics_. New York, NY: John Wiley and Sons (WIE), May 1990. ISBN: 9780471799894.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction | Park and Sharp-Bette (PSB). Chapter 1, pp. 3-25.  {{< br >}}  {{< br >}}"[Financial Ratio Analysis](http://www.bizmove.com/finance/m3b3.htm)."  {{< br >}}  {{< br >}}Levitt, Arthur. _Take on the Street: What Wall Street and Corporate America Don't Want You to Know_. New York: Knopf, 2002. pp. 144-174. ISBN: 9780375421785. |
-| 2 | Balance Sheets and Income Statements  {{< br >}}  {{< br >}}The Time Value of Money  {{< br >}}  {{< br >}}Discrete and Continuous Compounding | PSB. pp. 38-70. |
-| 3 | Time Value of Money Mechanics (cont.) | PSB. pp. 70-83. |
-| 4 | The Effects of Inflation  {{< br >}}  {{< br >}}Calculation of Capital Costs | An Illustration of the Use of Depreciation ([PDF]({{< baseurl >}}/resources/classnt_on_dep))  {{< br >}}  {{< br >}}Sullivan, William, et al. "Depreciation and Income Taxes." Chapter 6 in _Engineering Economy_. Upper Saddle River, NJ: Prentice-Hall, 1999. ISBN: 9780130115706. |
-| 5 | Depreciation, Capital Recovery, and Taxes | &nbsp; |
-| 6 | Depreciation, Capital Recovery, and Taxes (II) | PSB. pp. 201-237.  {{< br >}}  {{< br >}}_1989 Depreciation Guide._ Commerce Clearing House, Inc. Paragraphs 12, 15, 16, and 45. |
-| 7 | Levelized Cost of Product  {{< br >}}  {{< br >}}Carrying Charges | &nbsp; |
-| 8 | Methods for Project Evaluation | PSB. pp. 243-264. |
-| 9 | Methods for Project Evaluation (II): Nuclear Power Economics | &nbsp; |
-| 10 | Quiz #1 | &nbsp; |
-| 11 | Retirement/Replacement Problems  {{< br >}}  {{< br >}}Cost of Capital | PSB. pp. 654-682.  {{< br >}}  {{< br >}}Weston and Brigham. "The Cost of Capital." Chapter 19 in _Managerial Finance_. Philadelphia, PA: Saunders College Publishing/Harcourt Brace, 1986. ISBN: 9780030640414 . |
-| 12 | Evaluating Projects under Uncertainty | &nbsp; |
-| 13 | Economics of the Nuclear Fuel Cycle (I): Material Balances and Simple Cost Models | "The Nuclear Fuel Cycle." Organisation for Economic Co-operation and Development (OECD) Nuclear Energy Agency. Chapter 3 from _The Economics of the Nuclear Fuel Cycle,_ 1994. ([PDF](http://www.nea.fr/html/ndd/reports/efc/efc02.pdf))  {{< br >}}  {{< br >}}Nuclear Engineering for an Uncertain Future |
-| 14 | Economics of the Nuclear Fuel Cycle (II): Enrichment Case Study | &nbsp; |
-| 15 | Reprocessing and MOX Recycle: Economics and other Considerations | The Economics Of Reprocessing Vs. Direct Disposal Of Spent Nuclear Fuel ([PDF - 1.3 MB]({{< baseurl >}}/resources/repro_report)) (Courtesy of Matthew Bunn. Used with permission.) |
-| 16 | Nonproliferation, Safeguards, and Export Controls | See Related Resources - "Nonproliferation" Links |
-| 17 | Proliferation-resistance and Nuclear Energy | Civilian Nuclear Energy and Nuclear Weapons Programs: The Record ([PDF]({{< baseurl >}}/resources/prolif_history)) (Courtesy of Matthew Bunn. Used with permission.)  {{< br >}}  {{< br >}}See Related Resources - Links for "Nonproliferation and Energy" and "Nonproliferation Careers for Nuclear Engineers" |
-| 18 | Quiz #2 | &nbsp; |
-| 19 | Externalities: Accounting and Regulation | _[The Future of Nuclear Power](http://web.mit.edu/nuclearpower/) ._ pp. 53-63, 157-164. |
-| 20 | Nuclear Waste Management (I) | Probability Neglect: Emotions, Worst Cases, and Law ([PDF]({{< baseurl >}}/resources/sunstein_copy_1)) (Courtesy of Cass R. Sunstein. Used with permission.) |
-| 21 | Nuclear Waste Management (II) | &nbsp; |
-| 22 | Risk Perceptions, Communication and Public Attitudes | &nbsp; |
-| 23 | Future of Nuclear Power | &nbsp; |
-| 24 | Term Project Presentations | &nbsp; |
-| 25 | Term Project Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Park and Sharp-Bette (PSB). Chapter 1, pp. 3-25.  
+  
+"[Financial Ratio Analysis](http://www.bizmove.com/finance/m3b3.htm)."  
+  
+Levitt, Arthur. _Take on the Street: What Wall Street and Corporate America Don't Want You to Know_. New York: Knopf, 2002. pp. 144-174. ISBN: 9780375421785.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Balance Sheets and Income Statements  
+  
+The Time Value of Money  
+  
+Discrete and Continuous Compounding
+{{< tdclose >}}
+{{< tdopen >}}
+PSB. pp. 38-70.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Time Value of Money Mechanics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+PSB. pp. 70-83.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Effects of Inflation  
+  
+Calculation of Capital Costs
+{{< tdclose >}}
+{{< tdopen >}}
+An Illustration of the Use of Depreciation ([PDF]({{< baseurl >}}/resources/classnt_on_dep))  
+  
+Sullivan, William, et al. "Depreciation and Income Taxes." Chapter 6 in _Engineering Economy_. Upper Saddle River, NJ: Prentice-Hall, 1999. ISBN: 9780130115706.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Depreciation, Capital Recovery, and Taxes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Depreciation, Capital Recovery, and Taxes (II)
+{{< tdclose >}}
+{{< tdopen >}}
+PSB. pp. 201-237.  
+  
+_1989 Depreciation Guide._ Commerce Clearing House, Inc. Paragraphs 12, 15, 16, and 45.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Levelized Cost of Product  
+  
+Carrying Charges
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Methods for Project Evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+PSB. pp. 243-264.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Methods for Project Evaluation (II): Nuclear Power Economics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz #1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Retirement/Replacement Problems  
+  
+Cost of Capital
+{{< tdclose >}}
+{{< tdopen >}}
+PSB. pp. 654-682.  
+  
+Weston and Brigham. "The Cost of Capital." Chapter 19 in _Managerial Finance_. Philadelphia, PA: Saunders College Publishing/Harcourt Brace, 1986. ISBN: 9780030640414 .
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Evaluating Projects under Uncertainty
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Economics of the Nuclear Fuel Cycle (I): Material Balances and Simple Cost Models
+{{< tdclose >}}
+{{< tdopen >}}
+"The Nuclear Fuel Cycle." Organisation for Economic Co-operation and Development (OECD) Nuclear Energy Agency. Chapter 3 from _The Economics of the Nuclear Fuel Cycle,_ 1994. ([PDF](http://www.nea.fr/html/ndd/reports/efc/efc02.pdf))  
+  
+Nuclear Engineering for an Uncertain Future
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Economics of the Nuclear Fuel Cycle (II): Enrichment Case Study
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Reprocessing and MOX Recycle: Economics and other Considerations
+{{< tdclose >}}
+{{< tdopen >}}
+The Economics Of Reprocessing Vs. Direct Disposal Of Spent Nuclear Fuel ([PDF - 1.3 MB]({{< baseurl >}}/resources/repro_report)) (Courtesy of Matthew Bunn. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Nonproliferation, Safeguards, and Export Controls
+{{< tdclose >}}
+{{< tdopen >}}
+See Related Resources - "Nonproliferation" Links
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Proliferation-resistance and Nuclear Energy
+{{< tdclose >}}
+{{< tdopen >}}
+Civilian Nuclear Energy and Nuclear Weapons Programs: The Record ([PDF]({{< baseurl >}}/resources/prolif_history)) (Courtesy of Matthew Bunn. Used with permission.)  
+  
+See Related Resources - Links for "Nonproliferation and Energy" and "Nonproliferation Careers for Nuclear Engineers"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz #2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Externalities: Accounting and Regulation
+{{< tdclose >}}
+{{< tdopen >}}
+_[The Future of Nuclear Power](http://web.mit.edu/nuclearpower/) ._ pp. 53-63, 157-164.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Waste Management (I)
+{{< tdclose >}}
+{{< tdopen >}}
+Probability Neglect: Emotions, Worst Cases, and Law ([PDF]({{< baseurl >}}/resources/sunstein_copy_1)) (Courtesy of Cass R. Sunstein. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Waste Management (II)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Risk Perceptions, Communication and Public Attitudes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Future of Nuclear Power
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Term Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Term Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

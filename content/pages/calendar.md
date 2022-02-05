@@ -4,30 +4,333 @@ title: Calendar
 uid: f96c3e72-a4ae-a313-7228-535efaca950b
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction |  |
-| 2 | Balance Sheets and Income Statements  {{< br >}}  {{< br >}}The Time Value of Money  {{< br >}}  {{< br >}}Discrete and Continuous Compounding | Problem set 1 due |
-| 3 | Time Value of Money Mechanics (cont.) | Problem set 2 out |
-| 4 | The Effects of Inflation  {{< br >}}  {{< br >}}Calculation of Capital Costs | Problem set 3 out  {{< br >}}  {{< br >}}Problem set 2 due |
-| 5 | Depreciation, Capital Recovery, and Taxes |  |
-| 6 | Depreciation, Capital Recovery, and Taxes (II) | Problem set 3 due |
-| 7 | Levelized Cost of Product  {{< br >}}  {{< br >}}Carrying Charges | Problem set 4 out |
-| 8 | Methods for Project Evaluation | Problem set 4 addendum out |
-| 9 | Methods for Project Evaluation (II): Nuclear Power Economics |  |
-| 10 | Quiz #1 | Problem set 4 due |
-| 11 | Retirement/Replacement Problems  {{< br >}}  {{< br >}}Cost of Capital | Problem set 5 out |
-| 12 | Evaluating Projects under Uncertainty |  |
-| 13 | Economics of the Nuclear Fuel Cycle (I): Material Balances and Simple Cost Models | Problem set 5 due |
-| 14 | Economics of the Nuclear Fuel Cycle (II): Enrichment Case Study | Problem set 6 out |
-| 15 | Reprocessing and MOX Recycle: Economics and other Considerations | Problem set 6 due |
-| 16 | Nonproliferation, Safeguards, and Export Controls |  |
-| 17 | Proliferation-resistance and Nuclear Energy |  |
-| 18 | Quiz #2 |  |
-| 19 | Externalities: Accounting and Regulation |  |
-| 20 | Nuclear Waste Management (I) |  |
-| 21 | Nuclear Waste Management (II) |  |
-| 22 | Risk Perceptions, Communication and Public Attitudes |  |
-| 23 | Future of Nuclear Power |  |
-| 24 | Term Project Presentations |  |
-| 25 | Term Project Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Balance Sheets and Income Statements  
+  
+The Time Value of Money  
+  
+Discrete and Continuous Compounding
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Time Value of Money Mechanics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Effects of Inflation  
+  
+Calculation of Capital Costs
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 out  
+  
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Depreciation, Capital Recovery, and Taxes
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Depreciation, Capital Recovery, and Taxes (II)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Levelized Cost of Product  
+  
+Carrying Charges
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Methods for Project Evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 addendum out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Methods for Project Evaluation (II): Nuclear Power Economics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz #1
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Retirement/Replacement Problems  
+  
+Cost of Capital
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Evaluating Projects under Uncertainty
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Economics of the Nuclear Fuel Cycle (I): Material Balances and Simple Cost Models
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Economics of the Nuclear Fuel Cycle (II): Enrichment Case Study
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Reprocessing and MOX Recycle: Economics and other Considerations
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Nonproliferation, Safeguards, and Export Controls
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Proliferation-resistance and Nuclear Energy
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz #2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Externalities: Accounting and Regulation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Waste Management (I)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Waste Management (II)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Risk Perceptions, Communication and Public Attitudes
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Future of Nuclear Power
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Term Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Term Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
