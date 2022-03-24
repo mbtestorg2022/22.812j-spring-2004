@@ -37,7 +37,7 @@ A paper by Matthew Bunn, Harvard University Belfer Center for Science and Intern
 Bunn, Matthew, Oleg Bukharin, and Kenneth N. Luongo_._ [_Renewing the Partnership: Recommendations for Accelerated Action to Secure Nuclear Material in the Former Soviet Union_](https://www.belfercenter.org/publication/renewing-partnership-recommendations-accelerated-action-secure-nuclear-material-former). Princeton, NJ: Russian American Nuclear Security Advisory Council, August 2000.  
 A report specifically on how to strengthen the program to improve security and accounting of nuclear material in Russia.
 
-"A Report Card on the Department of Energy's Nonproliferation Programs with Russia." Secretary of Energy Advisory Board, January 10, 2001 (approved by the SEAB on January 18, 2001). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.hsdl.org/?abstract&did=2888))  
+"A Report Card on the Department of Energy's Nonproliferation Programs with Russia." Secretary of Energy Advisory Board, January 10, 2001 (approved by the SEAB on January 18, 2001). ([PDF](https://www.hsdl.org/?abstract&did=2888))  
 The recent report on DOE's Russia nonproliferation programs by a task force of the Secretary of Energy Advisory Board (which recommends a $30B 10-year effort to address the security risks).
 
 Bunn, Matthew, and John P. Holdren. "[Managing Military Uranium and Plutonium in the United States and the Former Soviet Union](https://www.annualreviews.org/doi/abs/10.1146/annurev.energy.22.1.403)." _Annual Review of Energy and the Environment_ 22 (1997): 403-486.  
@@ -136,7 +136,7 @@ A huge amount of information - though some of it isn't easy to find.
 "IAEA Safeguards: Stemming the Spread of Nuclear Weapons." _International Atomic Energy Agency Information Series._ International Atomic Energy Agency. Division of Public Information. ([PDF](http://www.iaea.org/Publications/Factsheets/English/S1_Safeguards.pdf))  
 A recent IAEA pamphlet describing the safeguards system.
 
-"Challenges to the IAEA’s System of Safeguards." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://www.iaea.org/Publications/Booklets/Safeguards3/safeguards0707.pdf))  
+"Challenges to the IAEA’s System of Safeguards." ( [PDF](http://www.iaea.org/Publications/Booklets/Safeguards3/safeguards0707.pdf))  
 A recent IAEA briefing on their perception of the challenges to the safeguards system.
 
 _{{< anchor "Export_Controls2" >}}{{< /anchor >}}Export Controls_
@@ -156,7 +156,7 @@ This center at the University of Georgia does some of the most in-depth non-gove
 "[President Announces New Measures to Counter the Threat of WMD](http://2001-2009.state.gov/t/isn/rls/rm/29290.htm)." _The White House._ (Remarks by the President on Weapons of Mass Destruction Proliferation. National Defense University, Washington, DC White House.)  
 President Bush's speech on February 11, 2004, outlining his nonproliferation policy.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[International Topical Workshop on "Proliferation-Resistance in Innovative Reactors and Fuel Cycles". (PDF - 1.7MB)](https://www.iaea.org/sites/default/files/inpro0812.pdf) International Atomic Energy Agency. Landau Network – Centro Volta. Council Room of the Municipality of Como, Italy, July 2-6, 2001.  
+[International Topical Workshop on "Proliferation-Resistance in Innovative Reactors and Fuel Cycles". (PDF - 1.7MB)](https://www.iaea.org/sites/default/files/inpro0812.pdf) International Atomic Energy Agency. Landau Network – Centro Volta. Council Room of the Municipality of Como, Italy, July 2-6, 2001.  
 Papers from a recent conference on proliferation-resistance.
 
 Feiveson, Harold. "[The Search for Proliferation-Resistant Nuclear Power](http://www.fas.org/faspir/2001/v54n5/nuclear.htm)." FAS Public Interest Report. _The Journal of the Federation of American Scientists_ 54, no. 5 (September/October 2001).  
