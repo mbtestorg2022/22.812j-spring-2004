@@ -4,6 +4,7 @@ description: 'Slide presentation of Lecture 18. Guest lecturer: Matthew Bunn, Ha
   University.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-812j-managing-nuclear-technology-spring-2004/682479454fd6823c2acdf49fdab729b0_lec17slides.pdf
 file_type: application/pdf
+parent_uid: 8e9cb89f-6d3d-0b9c-f2ce-4cc8246c1e35
 resourcetype: Document
 title: lec17slides.pdf
 uid: 68247945-4fd6-823c-2acd-f49fdab729b0
